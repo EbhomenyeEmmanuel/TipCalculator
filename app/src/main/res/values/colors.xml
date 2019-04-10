@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Color of the notification bar -->
+    <!--Material Blue 500-->
+    <color name="colorPrimary">#FF2196F3</color>
+    <!-- Color of the app bar -->
+    <!--Material Blue 700-->
+    <color name="colorPrimaryDark">#FF303F9F</color>
+    <!-- Color used to tint various controls -->
+    <color name="colorAccent">#FFFF9100</color>
+
+    <color name="amount_background">#BBDEFB</color>
+
+    <color name="result_background">#FFE0B2</color>
+</resources>
